@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @juDaugan
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning IA
-- 💞️ I’m looking to collaborate on video games
-- 📫 How to reach me ... don't
+I like to move it move it !
 
 <!---
 juDaugan/juDaugan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
